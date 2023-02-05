@@ -1,1 +1,1 @@
-# simon-says-Javascript-
+# simon-says
