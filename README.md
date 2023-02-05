@@ -1,1 +1,1 @@
-# simon-says
+# Simonsays-game
